@@ -168,7 +168,7 @@ footprint first.
 
 ---
 
-*object-remover-engine · Updated 2026-11-16 · Shared under the MIT License*
+*object-remover-engine · Updated 2026-11-17 · Shared under the MIT License*
 
 
-*Last updated: 2026-11-16*
+*Last updated: 2026-11-17*
